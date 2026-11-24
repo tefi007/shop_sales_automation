@@ -59,7 +59,9 @@ img/                 # скриншоты автоматизации и табл
 - `01_scheduler_summary.png` — обе задачи в планировщике;
 - `02_task_generate_details.png` — расписание и действие генерации;
 - `03_task_load_details.png` — расписание и действие загрузки;
-- `04_db_tables.png` — таблица sales в базе shop_sales.
+- `04_db_tables.png` — таблица sales в базе shop_sales;
+- `05_scheduler_library.jpg` — библиотека планировщика с обеими задачами (GUI);
+- `06_task_properties.jpg` — триггер задачи генерации в окне свойств (GUI).
 
 Команды для создания задач вручную (из cmd от имени того же пользователя):
 
