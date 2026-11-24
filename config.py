@@ -5,7 +5,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'port': 5432,
     'user': 'postgres',
-    'password': 'imoDuma#6#',  # пароль PostgreSQL на локальной машине
+    'password': 'your_password',  # укажите пароль PostgreSQL на своей машине
     'dbname': 'postgres',      # служебная база; рабочая создаётся скриптом setup_db.py
 }
 
